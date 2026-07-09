@@ -1,0 +1,6 @@
+variant/SRR6241766_filtered.vcf.gz
+variant/SRR6241767_filtered.vcf.gz
+variant/SRR6241768_filtered.vcf.gz
+variant/SRR6241769_filtered.vcf.gz
+variant/SRR6241770_filtered.vcf.gz
+variant/SRR6241771_filtered.vcf.gz

@@ -1,0 +1,11 @@
+Gene	Mutation	Drug	Mechanism
+rpoB	p.Ser456Leu	Rifampicin	RNA_polymerase_beta_subunit
+rpoB	p.His451Tyr	Rifampicin	RNA_polymerase_beta_subunit
+rpoB	p.Ser456Met	Rifampicin	RNA_polymerase_beta_subunit
+folP1	p.Thr53Ile	Dapsone	Dihydropteroate_synthase
+folP1	p.Pro55Leu	Dapsone	Dihydropteroate_synthase
+gyrA	p.Ala91Val	Ofloxacin	DNA_gyrase
+gyrA	p.Gly89Cys	Ofloxacin	DNA_gyrase
+gyrB	p.Asp464Asn	Ofloxacin	DNA_gyrase
+
+

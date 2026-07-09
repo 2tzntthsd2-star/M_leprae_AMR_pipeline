@@ -1,0 +1,9 @@
+raw_data/
+aligned/
+bam/
+trimmed/
+
+*.fastq.gz
+*.sam
+*.bam
+*.bcf

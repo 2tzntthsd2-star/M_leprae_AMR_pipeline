@@ -1,0 +1,600 @@
+Chromosome	Position	REF	ALT	Effect	Impact	Gene	Protein_change
+Chromosome	73	A	G	missense_variant	MODERATE	dnaA	p.Ser25Gly
+Chromosome	4513	G	A	missense_variant	MODERATE	ENSB:k7gHUPjOL_624qS	p.Val27Ile
+Chromosome	8402	G	A	missense_variant	MODERATE	gyrA	p.Gly362Glu
+Chromosome	8453	T	C	missense_variant	MODERATE	gyrA	p.Leu379Pro
+Chromosome	9869	T	C	missense_variant	MODERATE	gyrA	p.Ile851Thr
+Chromosome	12484	A	AACCACAGCTAGAC	upstream_gene_variant	MODIFIER	ENSB:iEnIZGc8-gGitaX	
+Chromosome	12975	A	G	upstream_gene_variant	MODIFIER	ENSB:iEnIZGc8-gGitaX	
+Chromosome	15439	G	A	upstream_gene_variant	MODIFIER	ppiA	
+Chromosome	16320	C	T	missense_variant	MODERATE	ppiA	p.Pro110Ser
+Chromosome	17173	G	A	synonymous_variant	LOW	crgA	p.Phe81Phe
+Chromosome	19163	G	A	synonymous_variant	LOW	pknB	p.Asp569Asp
+Chromosome	22061	G	A	synonymous_variant	LOW	pknA	p.Leu44Leu
+Chromosome	23700	G	A	synonymous_variant	LOW	rodA	p.Ile454Ile
+Chromosome	26545	G	A	synonymous_variant	LOW	pstP	p.Leu15Leu
+Chromosome	28397	C	T	synonymous_variant	LOW	fhaA	p.Thr81Thr
+Chromosome	38081	G	A	synonymous_variant	LOW	leuS	p.Val602Val
+Chromosome	39535	G	A	missense_variant	MODERATE	ENSB:0oYr4PH5jRSml1d	p.Pro44Ser
+Chromosome	39614	G	A	synonymous_variant	LOW	ENSB:0oYr4PH5jRSml1d	p.Thr17Thr
+Chromosome	39623	G	A	synonymous_variant	LOW	ENSB:0oYr4PH5jRSml1d	p.Tyr14Tyr
+Chromosome	44770	G	A	upstream_gene_variant	MODIFIER	ENSB:lDSBZtqWakTLKVq	
+Chromosome	48229	C	T	upstream_gene_variant	MODIFIER	ENSB:8Z2J02lVioCVXFQ	
+Chromosome	48680	G	T	upstream_gene_variant	MODIFIER	ENSB:8Z2J02lVioCVXFQ	
+Chromosome	48732	C	T	upstream_gene_variant	MODIFIER	ENSB:8Z2J02lVioCVXFQ	
+Chromosome	52851	T	C	missense_variant	MODERATE	eccE1	p.Trp287Arg
+Chromosome	57633	T	G	upstream_gene_variant	MODIFIER	ENSB:4ilXja_7p7_1F89	
+Chromosome	61244	C	T	synonymous_variant	LOW	ENSB:278E01EWiZJAGCW	p.Glu24Glu
+Chromosome	61425	A	G	missense_variant	MODERATE	esxA	p.Met90Thr
+Chromosome	61530	C	T	missense_variant	MODERATE	esxA	p.Arg55Gln
+Chromosome	62401	T	G	missense_variant	MODERATE	ENSB:-BZ2B6gg5fSPyeZ	p.Thr237Pro
+Chromosome	62545	G	T	missense_variant	MODERATE	ENSB:-BZ2B6gg5fSPyeZ	p.Pro189Thr
+Chromosome	66394	C	T	missense_variant	MODERATE	eccCa1	p.Gly343Ser
+Chromosome	69328	G	T	synonymous_variant	LOW	eccA1	p.Thr420Thr
+Chromosome	71669	TTTGTTGTTGCCAACATTGCGACGCCACTACCGAGTCTCCACTCCCGGTCCGG	T	frameshift_variant&stop_lost&splice_region_variant	HIGH	espG1	p.Thr115fs
+Chromosome	73073	CGATCAAGCCAGGAATCAAGTT	C	conservative_inframe_deletion	MODERATE	ENSB:zJSOucJHGM2gajw	p.Asn49_Ile55del
+Chromosome	74825	T	C	synonymous_variant	LOW	ENSB:mpmKt7vlsmkczRE	p.Tyr14Tyr
+Chromosome	74834	T	C	synonymous_variant	LOW	ENSB:mpmKt7vlsmkczRE	p.Thr17Thr
+Chromosome	74913	T	C	missense_variant	MODERATE	ENSB:mpmKt7vlsmkczRE	p.Ser44Pro
+Chromosome	77864	T	C	synonymous_variant	LOW	gltB	p.Gly52Gly
+Chromosome	80693	C	T	synonymous_variant	LOW	gltB	p.Pro995Pro
+Chromosome	94052	A	G	splice_region_variant&stop_retained_variant	LOW	ENSB:CLv7hMHw-PV4MwU	p.Ter58Ter
+Chromosome	100574	A	G	upstream_gene_variant	MODIFIER	tagU	
+Chromosome	128389	A	G	synonymous_variant	LOW	ENSB:KyaoGGNSNtNMlte	p.Glu624Glu
+Chromosome	129046	T	A	synonymous_variant	LOW	ENSB:KyaoGGNSNtNMlte	p.Val843Val
+Chromosome	157960	C	T	missense_variant	MODERATE	ENSB:EySwSFLJR_xisQe	p.Leu8Phe
+Chromosome	165853	C	A	upstream_gene_variant	MODIFIER	yfeW_1	
+Chromosome	168242	G	C	synonymous_variant	LOW	ENSB:FCECXy1fA6EOxJM	p.Thr209Thr
+Chromosome	177506	A	G	missense_variant	MODERATE	ENSB:sFGNSrtuxptYtA1	p.Ser52Gly
+Chromosome	180750	G	A	missense_variant	MODERATE	ENSB:6tHuoWj7VshxlU_	p.Gly242Ser
+Chromosome	202440	AG	A	frameshift_variant	HIGH	ENSB:HG1_s__gRmD3sOB	p.Leu41fs
+Chromosome	215690	G	C	synonymous_variant	LOW	uvrD1	p.Ala473Ala
+Chromosome	219873	A	G	missense_variant	MODERATE	sucD	p.Asn72Ser
+Chromosome	226896	T	G	upstream_gene_variant	MODIFIER	ENSB:rfOBwPrUJ_Abp1v	
+Chromosome	240490	C	T	upstream_gene_variant	MODIFIER	ENSB:xYZJeGYxGUGYyf4	
+Chromosome	254429	G	C	upstream_gene_variant	MODIFIER	ENSB:1fESlVo39uiuxAd	
+Chromosome	259858	C	T	synonymous_variant	LOW	ENSB:lER0ElkRCkGIVNu	p.Tyr14Tyr
+Chromosome	259867	C	T	synonymous_variant	LOW	ENSB:lER0ElkRCkGIVNu	p.Thr17Thr
+Chromosome	259946	C	T	missense_variant	MODERATE	ENSB:lER0ElkRCkGIVNu	p.Pro44Ser
+Chromosome	264501	A	C	stop_gained	HIGH	ENSB:3A-knEp0dq2Gee_	p.Tyr20*
+Chromosome	276353	T	C	synonymous_variant	LOW	ENSB:sGhEGsG6Zmodbrh	p.Thr17Thr
+Chromosome	276432	T	C	missense_variant	MODERATE	ENSB:sGhEGsG6Zmodbrh	p.Ser44Pro
+Chromosome	277449	G	A	missense_variant	MODERATE	ENSB:n1cLNnsZ3WOppgq	p.Ala110Val
+Chromosome	280142	C	T	upstream_gene_variant	MODIFIER	ENSB:n1cLNnsZ3WOppgq	
+Chromosome	280143	A	G	upstream_gene_variant	MODIFIER	ENSB:n1cLNnsZ3WOppgq	
+Chromosome	280145	A	C	upstream_gene_variant	MODIFIER	ENSB:n1cLNnsZ3WOppgq	
+Chromosome	280355	A	G	missense_variant	MODERATE	ENSB:YTZi3MIU2exXS0o	p.Ser44Pro
+Chromosome	280434	A	G	synonymous_variant	LOW	ENSB:YTZi3MIU2exXS0o	p.Thr17Thr
+Chromosome	280443	A	G	synonymous_variant	LOW	ENSB:YTZi3MIU2exXS0o	p.Tyr14Tyr
+Chromosome	298572	A	G	synonymous_variant	LOW	ENSB:qPJfWcE7YR1xgVN	p.Val19Val
+Chromosome	308813	AATAT	A	downstream_gene_variant	MODIFIER	lysS1	
+Chromosome	309516	A	C	upstream_gene_variant	MODIFIER	tatD	
+Chromosome	312038	TCCCCCCCCCCCC	T,TCCC	conservative_inframe_deletion	MODERATE	ENSB:f2bWsgvXs8EwCUX	p.Gly29_Gly32del
+Chromosome	313361	A	G	missense_variant	MODERATE	metG	p.Leu154Pro
+Chromosome	315317	G	A	missense_variant	MODERATE	rpfB	p.Ala124Thr
+Chromosome	328289	C	T	missense_variant	MODERATE	mfd	p.Leu75Phe
+Chromosome	328634	G	C	missense_variant	MODERATE	mfd	p.Val190Leu
+Chromosome	330125	G	A	missense_variant	MODERATE	mfd	p.Ala687Thr
+Chromosome	336032	C	G	synonymous_variant	LOW	ENSB:EQeKmD2SpQoswa6	p.Thr76Thr
+Chromosome	336266	T	C	synonymous_variant	LOW	ENSB:EQeKmD2SpQoswa6	p.Ala154Ala
+Chromosome	346013	G	A	upstream_gene_variant	MODIFIER	ENSB:JtXXfFNjZmT28lF	
+Chromosome	347279	CGGG	CGG,CG,C	frameshift_variant	HIGH	ENSB:1FoIlhsQ9dsyUbe	p.Gly73fs
+Chromosome	347385	T	C	synonymous_variant	LOW	ENSB:1FoIlhsQ9dsyUbe	p.Arg105Arg
+Chromosome	354566	C	A	missense_variant	MODERATE	yflN	p.His154Gln
+Chromosome	354584	T	C	synonymous_variant	LOW	yflN	p.Thr160Thr
+Chromosome	354590	G	A	synonymous_variant	LOW	yflN	p.Gly162Gly
+Chromosome	364243	C	T	upstream_gene_variant	MODIFIER	ENSB:5beV5H1rnsnMOa5	
+Chromosome	365435	G	A	missense_variant	MODERATE	zitB	p.Ala162Thr
+Chromosome	369492	C	T	missense_variant	MODERATE	ENSB:YShbNfhLRxqDK2u	p.Pro43Ser
+Chromosome	371889	T	C	upstream_gene_variant	MODIFIER	fba	
+Chromosome	373602	C	A	upstream_gene_variant	MODIFIER	ENSB:ZAvDmvj4F6VrPhk	
+Chromosome	383599	C	G	upstream_gene_variant	MODIFIER	thiG	
+Chromosome	384393	G	GC	upstream_gene_variant	MODIFIER	thiG	
+Chromosome	390051	T	TG	upstream_gene_variant	MODIFIER	ENSB:zZ6QCzsFVuqNgoO	
+Chromosome	393043	G	A	upstream_gene_variant	MODIFIER	ENSB:zZ6QCzsFVuqNgoO	
+Chromosome	397132	C	T	missense_variant	MODERATE	ENSB:GYZNXdEFwRqEs6f	p.Ala273Thr
+Chromosome	400762	GGCCTGTCTCTAGAGGCTTT	G	frameshift_variant&stop_lost&splice_region_variant	HIGH	aes	p.Gln363fs
+Chromosome	403243	G	GCCTTGAGAAAT	upstream_gene_variant	MODIFIER	psd	
+Chromosome	417000	T	G	upstream_gene_variant	MODIFIER	ENSB:-IplZjVdyzSoIpv	
+Chromosome	421565	C	T	upstream_gene_variant	MODIFIER	ENSB:4fzse-ZHJVkinGJ	
+Chromosome	422850	G	A	upstream_gene_variant	MODIFIER	ENSB:Nsyhd9WXb5EVccM	
+Chromosome	432335	T	G	upstream_gene_variant	MODIFIER	ssaB	
+Chromosome	433003	G	A	upstream_gene_variant	MODIFIER	ENSB:KLarxOeSlCW2DCO	
+Chromosome	436217	T	C	missense_variant	MODERATE	ENSB:2zSOZy9aYeoQJUU	p.His64Arg
+Chromosome	442992	CG	CGGG,CGG,C	frameshift_variant	HIGH	ENSB:BbHlCVVZ0sAE_zZ	p.Asp36fs
+Chromosome	445012	CA	C	frameshift_variant	HIGH	ENSB:NfcENzVe1hmaNDL	p.Val94fs
+Chromosome	459887	C	T	upstream_gene_variant	MODIFIER	ENSB:ARmNfE874_3qQrj	
+Chromosome	464985	G	T	upstream_gene_variant	MODIFIER	ENSB:mgaZ9xUF5zt3Uy7	
+Chromosome	477016	G	A	missense_variant	MODERATE	ENSB:0QHmhtk1wTzYyy9	p.Gly175Arg
+Chromosome	481476	A	G	synonymous_variant	LOW	guaB	p.Leu272Leu
+Chromosome	485138	T	C	missense_variant	MODERATE	choD	p.Leu579Pro
+Chromosome	492614	C	A	synonymous_variant	LOW	guaA	p.Gly585Gly
+Chromosome	494674	T	G	missense_variant	MODERATE	ENSB:WZhBT8_8UrO_ocm	p.Glu366Asp
+Chromosome	508481	T	C	missense_variant	MODERATE	ENSB:FHxJ6ZS5IOU9VNt	p.Val52Ala
+Chromosome	508714	G	T	upstream_gene_variant	MODIFIER	ENSB:9bjNmbS4gSrk8OX	
+Chromosome	509030	C	A	missense_variant	MODERATE	ENSB:NYRAXk-rdV7gayP	p.His92Gln
+Chromosome	509178	G	A	missense_variant	MODERATE	ENSB:NYRAXk-rdV7gayP	p.Asp142Asn
+Chromosome	509325	C	G	missense_variant	MODERATE	ENSB:NYRAXk-rdV7gayP	p.His191Asp
+Chromosome	509425	C	T	missense_variant	MODERATE	ENSB:NYRAXk-rdV7gayP	p.Ser224Leu
+Chromosome	509647	T	C	missense_variant	MODERATE	ENSB:NYRAXk-rdV7gayP	p.Val298Ala
+Chromosome	509851	G	T	missense_variant	MODERATE	ENSB:NYRAXk-rdV7gayP	p.Gly366Val
+Chromosome	523366	G	A	missense_variant	MODERATE	ENSB:xxvOTSkBDYwWjkS	p.Pro44Ser
+Chromosome	523454	G	A	synonymous_variant	LOW	ENSB:xxvOTSkBDYwWjkS	p.Tyr14Tyr
+Chromosome	528451	C	T	upstream_gene_variant	MODIFIER	ENSB:xxvOTSkBDYwWjkS	
+Chromosome	531649	C	T	missense_variant	MODERATE	ENSB:nTZ08fyWg_cFVrg	p.Gly16Glu
+Chromosome	533403	A	G	upstream_gene_variant	MODIFIER	ENSB:uhAuKlRQ8eZnk9X	
+Chromosome	544468	T	A	missense_variant	MODERATE	ENSB:XxRvPZJhosZ2xMw	p.Thr83Ser
+Chromosome	548067	C	G	upstream_gene_variant	MODIFIER	ENSB:XxRvPZJhosZ2xMw	
+Chromosome	551994	G	T	synonymous_variant	LOW	ENSB:9_byCIHH6ysWjLV	p.Arg83Arg
+Chromosome	560067	T	TTA	upstream_gene_variant	MODIFIER	ENSB:JTefswqYKkpS0Hp	
+Chromosome	563796	G	C	missense_variant	MODERATE	ENSB:ZiAGdypxj6ELoVB	p.Glu37Asp
+Chromosome	569287	A	G	missense_variant	MODERATE	ENSB:4A0Lp3009ledBWE	p.Thr32Ala
+Chromosome	575459	C	T	upstream_gene_variant	MODIFIER	ENSB:pdMnA_jXtUP8xKM	
+Chromosome	593138	C	T	synonymous_variant	LOW	secF	p.Ala435Ala
+Chromosome	612421	G	A	upstream_gene_variant	MODIFIER	ENSB:0WXUMDgdvv8hh_e	
+Chromosome	614589	GGCGCTCATTCCTTAAGAA	G	upstream_gene_variant	MODIFIER	ENSB:xN5TLd4B9uLr16q	
+Chromosome	637185	C	T	missense_variant	MODERATE	ENSB:_LsvRIxh6VtsDhN	p.Thr848Ile
+Chromosome	641505	C	T	missense_variant	MODERATE	ENSB:smZqeoRpT9skIQV	p.Pro132Ser
+Chromosome	642038	C	T	synonymous_variant	LOW	ENSB:--0We8zaF_uzUST	p.Ala72Ala
+Chromosome	655726	G	A	synonymous_variant	LOW	ENSB:DxNOD014tdW88K3	p.Ala431Ala
+Chromosome	657736	G	C	synonymous_variant	LOW	gmk	p.Arg155Arg
+Chromosome	667800	ATATAATCTCAATATAAATCATGATAATGAGATGTAAT	A	frameshift_variant&stop_lost&splice_region_variant	HIGH	ENSB:s8r44hqcV3-Jycb	p.Asp157fs
+Chromosome	667967	A	AGG	upstream_gene_variant	MODIFIER	ENSB:UOHM9uhTNj3jwSj	
+Chromosome	675500	C	T	upstream_gene_variant	MODIFIER	ENSB:CepGQ_b629PZbnq	
+Chromosome	686240	A	C	upstream_gene_variant	MODIFIER	ENSB:Y55UMKrvoU6MRPL	
+Chromosome	694090	T	C	missense_variant	MODERATE	ENSB:1LhgmTjtYtFmb_z	p.Thr155Ala
+Chromosome	711197	T	C	missense_variant	MODERATE	ENSB:NBTSFWZ7xf8c44J	p.Asn62Ser
+Chromosome	714396	C	T	synonymous_variant	LOW	ENSB:0pAm192SGuK6Tw8	p.Ser212Ser
+Chromosome	718321	C	T	synonymous_variant	LOW	ENSB:A9TsN-vd1Di5A5K	p.Ile150Ile
+Chromosome	728656	T	TG	upstream_gene_variant	MODIFIER	ENSB:c_xmB8fT6DUzcRk	
+Chromosome	730349	G	C	upstream_gene_variant	MODIFIER	ENSB:c_xmB8fT6DUzcRk	
+Chromosome	733164	G	A	upstream_gene_variant	MODIFIER	ENSB:1fo_BeFDBecKspL	
+Chromosome	737050	C	CG	frameshift_variant	HIGH	ENSB:W3tkC_e_GKLUyia	p.Pro168fs
+Chromosome	738327	C	CA	frameshift_variant	HIGH	ENSB:ENkV3oIXYmy4biJ	p.Leu33fs
+Chromosome	738610	G	T	missense_variant	MODERATE	ENSB:ENkV3oIXYmy4biJ	p.Gly126Val
+Chromosome	741132	C	CG	frameshift_variant	HIGH	ENSB:M1nnBPnJN4YKBy2	p.Ser95fs
+Chromosome	751982	T	G	upstream_gene_variant	MODIFIER	ENSB:lJ-SrmIAQkWB2zK	
+Chromosome	755941	CG	CGG,C	upstream_gene_variant	MODIFIER	ENSB:V2Rt_M8rQijsxJp	
+Chromosome	779532	C	T	missense_variant	MODERATE	ENSB:s4t5HDQq9TF7Fkd	p.Thr786Met
+Chromosome	794035	T	A	upstream_gene_variant	MODIFIER	ENSB:JcS_O6P75sXq3SA	
+Chromosome	807196	C	T	missense_variant	MODERATE	ftsX	p.Ala196Val
+Chromosome	831215	G	T	upstream_gene_variant	MODIFIER	ENSB:wBDHz6_XyVt5XwV	
+Chromosome	832152	T	C	synonymous_variant	LOW	ENSB:hRolKBwyeg849p-	p.Ser24Ser
+Chromosome	836798	G	A	synonymous_variant	LOW	ENSB:4-zjm4mnEDsd1Q7	p.Ala45Ala
+Chromosome	840584	A	G	upstream_gene_variant	MODIFIER	sdhA	
+Chromosome	846944	C	T	upstream_gene_variant	MODIFIER	ENSB:-BHcpCY0COZreXn	
+Chromosome	847092	TGTAATCCCGCGGACACGCGGC	T	disruptive_inframe_deletion	MODERATE	ENSB:KyZjR2VZKqT2VIv	p.Asn58_Arg64del
+Chromosome	848261	G	A	upstream_gene_variant	MODIFIER	ENSB:FsoOb4zPyyy8Qor	
+Chromosome	855081	G	A	synonymous_variant	LOW	ENSB:g4iLd5XxOVE-wvG	p.Gly49Gly
+Chromosome	888972	C	T	missense_variant	MODERATE	ctpC	p.Gly667Arg
+Chromosome	889482	G	A	synonymous_variant	LOW	ctpC	p.Leu497Leu
+Chromosome	890453	A	G	missense_variant	MODERATE	ctpC	p.Val173Ala
+Chromosome	902543	C	T	synonymous_variant	LOW	fbiA	p.Gly120Gly
+Chromosome	904824	G	C	synonymous_variant	LOW	algC	p.Val50Val
+Chromosome	909038	G	C	missense_variant	MODERATE	ENSB:4m3wk_61oBOuO2y	p.Cys79Trp
+Chromosome	938372	C	T	upstream_gene_variant	MODIFIER	ENSB:FKcsKisNhoXkHgK	
+Chromosome	944191	C	CA	frameshift_variant	HIGH	ENSB:k0swY_dNKh5PMKL	p.Val40fs
+Chromosome	948934	AATATATATAT	A,AAT	upstream_gene_variant	MODIFIER	ENSB:k0swY_dNKh5PMKL	
+Chromosome	953582	C	T,G	missense_variant	MODERATE	pdtaS	p.Arg494Gly
+Chromosome	957142	A	G	synonymous_variant	LOW	menF_2	p.Ser249Ser
+Chromosome	958228	A	AC	upstream_gene_variant	MODIFIER	whiB1	
+Chromosome	963339	C	T	upstream_gene_variant	MODIFIER	ENSB:aPRxcw4GyWOhcWy	
+Chromosome	964628	C	T	upstream_gene_variant	MODIFIER	ENSB:aPRxcw4GyWOhcWy	
+Chromosome	966690	G	C	missense_variant	MODERATE	moeZ	p.Arg254Thr
+Chromosome	972005	T	G	upstream_gene_variant	MODIFIER	ENSB:1Qs5PUfGryzd53T	
+Chromosome	976856	C	CG	upstream_gene_variant	MODIFIER	ENSB:zDTmNr5xmn5kErF	
+Chromosome	977377	G	A	synonymous_variant	LOW	ENSB:nuWIR_KkUFN2pue	p.Thr17Thr
+Chromosome	977711	ACAC	A	upstream_gene_variant	MODIFIER	ENSB:nuWIR_KkUFN2pue	
+Chromosome	978006	G	A	missense_variant	MODERATE	zur	p.Ala58Val
+Chromosome	1054139	C	G	missense_variant	MODERATE	ENSB:rp9CqkuRvLoAslH	p.Arg316Pro
+Chromosome	1059469	G	A	synonymous_variant	LOW	ENSB:tpBrsgNlFLlWa3m	p.Leu257Leu
+Chromosome	1069954	T	C	upstream_gene_variant	MODIFIER	mptA	
+Chromosome	1073641	C	T	synonymous_variant	LOW	ENSB:3GGVD91gG25tvbq	p.Leu314Leu
+Chromosome	1076949	G	C	missense_variant	MODERATE	murE	p.Val314Leu
+Chromosome	1087397	T	C	synonymous_variant	LOW	ftsZ	p.Gly34Gly
+Chromosome	1089560	T	C	synonymous_variant	LOW	ENSB:LN5uGlCPP8uEFtF	p.Thr116Thr
+Chromosome	1093106	GTGGTGGGC	G	frameshift_variant	HIGH	ENSB:sfu0AAfJUed7vTK	p.Trp79fs
+Chromosome	1097704	C	CCCCACCAG	upstream_gene_variant	MODIFIER	ENSB:0r3N9rF-D-7f-R5	
+Chromosome	1104232	C	G	upstream_gene_variant	MODIFIER	ENSB:m9pXCYWcf0lu8PB	
+Chromosome	1108670	C	CA	upstream_gene_variant	MODIFIER	ENSB:6tRzM5WUAjhbxj-	
+Chromosome	1116442	CGGG	C,CG	frameshift_variant	HIGH	ENSB:bXs0fCoqB_RJVqU	p.Gly73fs
+Chromosome	1120609	C	T	upstream_gene_variant	MODIFIER	ENSB:ETFJmDvi3fmC4m4	
+Chromosome	1127748	T	A	upstream_gene_variant	MODIFIER	ENSB:Gqgt4tntLlQusto	
+Chromosome	1133492	T	G	synonymous_variant	LOW	ENSB:rANl1usEpnEwa5n	p.Ser89Ser
+Chromosome	1137803	G	A	missense_variant	MODERATE	uctC	p.Gly100Asp
+Chromosome	1142139	TG	T	upstream_gene_variant	MODIFIER	ENSB:seW0mz4mEmreVOi	
+Chromosome	1143423	T	C	missense_variant	MODERATE	ENSB:tRcBd0jv85zMbYv	p.Ile17Met
+Chromosome	1146873	G	C	missense_variant	MODERATE	ftsK	p.Arg793Pro
+Chromosome	1149816	C	T	synonymous_variant	LOW	ENSB:PX-9f0JZ5VFxkUc	p.Thr19Thr
+Chromosome	1155582	T	G	synonymous_variant	LOW	recX	p.Ala142Ala
+Chromosome	1161063	A	G	upstream_gene_variant	MODIFIER	ENSB:RZWoizxltMQznCl	
+Chromosome	1169962	G	A	upstream_gene_variant	MODIFIER	ENSB:cCt7yqRJ_G0tuGb	
+Chromosome	1190340	T	TTCGATG	disruptive_inframe_insertion	MODERATE	sigA	p.Asp182_Ile183dup
+Chromosome	1196461	G	T	upstream_gene_variant	MODIFIER	nanK	
+Chromosome	1205699	T	G	missense_variant	MODERATE	rnd	p.Ile280Leu
+Chromosome	1213324	GC	G	upstream_gene_variant	MODIFIER	ENSB:lynnQiotuSb9pLp	
+Chromosome	1216175	G	T	upstream_gene_variant	MODIFIER	ENSB:lynnQiotuSb9pLp	
+Chromosome	1220708	T	C	upstream_gene_variant	MODIFIER	ENSB:qXr01pEZfRHS8v0	
+Chromosome	1225206	C	T	missense_variant	MODERATE	ENSB:q9lTzUKQPsFQzvV	p.Ala126Thr
+Chromosome	1225568	G	T	missense_variant	MODERATE	ENSB:q9lTzUKQPsFQzvV	p.Ala5Glu
+Chromosome	1227051	G	T	upstream_gene_variant	MODIFIER	dapD	
+Chromosome	1227631	C	A	upstream_gene_variant	MODIFIER	dapD	
+Chromosome	1248109	G	T	upstream_gene_variant	MODIFIER	mrp	
+Chromosome	1257185	T	C	missense_variant	MODERATE	ENSB:NdqmKTONA9YWzf2	p.Phe48Ser
+Chromosome	1262010	T	C	missense_variant	MODERATE	kgd	p.Thr579Ala
+Chromosome	1265267	T	G	upstream_gene_variant	MODIFIER	kgd	
+Chromosome	1278428	C	G	missense_variant	MODERATE	tap	p.Trp80Ser
+Chromosome	1295192	A	G	missense_variant	MODERATE	ENSB:u8JU3qN1Tf2PX5P	p.Met144Val
+Chromosome	1309543	CGG	CGGG,CG,C,CGGGGGG	upstream_gene_variant	MODIFIER	ENSB:o9XzOPC33rlfJhi	
+Chromosome	1324009	C	G	missense_variant	MODERATE	rho	p.Gln227Glu
+Chromosome	1339813	T	C	synonymous_variant	LOW	murA	p.Asp73Asp
+Chromosome	1341155	A	G	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1341281	T	C	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1341295	CA	C	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1341387	C	T	missense_variant	MODERATE	ENSB:TJgVmQ5eDySsmPk	p.Gly71Glu
+Chromosome	1341394	C	T	missense_variant	MODERATE	ENSB:TJgVmQ5eDySsmPk	p.Gly69Ser
+Chromosome	1341415	G	A	missense_variant	MODERATE	ENSB:TJgVmQ5eDySsmPk	p.His62Tyr
+Chromosome	1341459	T	A	missense_variant	MODERATE	ENSB:TJgVmQ5eDySsmPk	p.Tyr47Phe
+Chromosome	1341473	G	A	synonymous_variant	LOW	ENSB:TJgVmQ5eDySsmPk	p.Val42Val
+Chromosome	1341481	T	C	missense_variant	MODERATE	ENSB:TJgVmQ5eDySsmPk	p.Ile40Val
+Chromosome	1341486	C	T	missense_variant	MODERATE	ENSB:TJgVmQ5eDySsmPk	p.Gly38Asp
+Chromosome	1341549	G	C	missense_variant	MODERATE	ENSB:TJgVmQ5eDySsmPk	p.Ser17Trp
+Chromosome	1341551	C	T	synonymous_variant	LOW	ENSB:TJgVmQ5eDySsmPk	p.Ala16Ala
+Chromosome	1341653	C	T	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1341658	A	C	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1341683	T	G	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1341691	G	A	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1341698	G	A	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1341699	T	A	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1341700	C	T	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1342023	A	C	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1342051	C	T	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1342063	G	T	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1342090	C	T	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1342102	A	T	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1342221	C	T	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1342226	G	A	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1342353	C	G	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1343119	T	C	upstream_gene_variant	MODIFIER	ENSB:mRE6SHBlcwRbx3e	
+Chromosome	1344830	C	A	missense_variant	MODERATE	ENSB:SK2Rd0Uu3GhEU8A	p.His15Asn
+Chromosome	1345107	T	C	upstream_gene_variant	MODIFIER	ENSB:TJgVmQ5eDySsmPk	
+Chromosome	1345108	G	C	upstream_gene_variant	MODIFIER	ENSB:TJgVmQ5eDySsmPk	
+Chromosome	1345120	C	G	upstream_gene_variant	MODIFIER	ENSB:TJgVmQ5eDySsmPk	
+Chromosome	1345121	A	G	upstream_gene_variant	MODIFIER	ENSB:TJgVmQ5eDySsmPk	
+Chromosome	1345640	C	T	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Gly105Glu
+Chromosome	1345660	C	A	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Lys98Asn
+Chromosome	1345661	T	C	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Lys98Arg
+Chromosome	1345662	T	C	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Lys98Glu
+Chromosome	1345663	C	G	synonymous_variant	LOW	ENSB:OzI9u79yEcyRnq8	p.Gly97Gly
+Chromosome	1345673	C	T	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Gly94Glu
+Chromosome	1345685	G	C	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Ser90Cys
+Chromosome	1345686	A	G	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Ser90Pro
+Chromosome	1345687	T	G	synonymous_variant	LOW	ENSB:OzI9u79yEcyRnq8	p.Pro89Pro
+Chromosome	1345688	G	T	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Pro89Gln
+Chromosome	1345712	G	A	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Thr81Met
+Chromosome	1345715	G	A	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Ala80Val
+Chromosome	1345732	C	T	synonymous_variant	LOW	ENSB:OzI9u79yEcyRnq8	p.Leu74Leu
+Chromosome	1345746	T	A	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Asn70Tyr
+Chromosome	1345747	G	T	synonymous_variant	LOW	ENSB:OzI9u79yEcyRnq8	p.Pro69Pro
+Chromosome	1345759	C	A	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Met65Ile
+Chromosome	1345760	A	T	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Met65Lys
+Chromosome	1345767	C	T	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Ala63Thr
+Chromosome	1345770	C	T	missense_variant	MODERATE	ENSB:OzI9u79yEcyRnq8	p.Ala62Thr
+Chromosome	1345810	T	C	synonymous_variant	LOW	ENSB:OzI9u79yEcyRnq8	p.Arg48Arg
+Chromosome	1348426	T	C	missense_variant	MODERATE	ENSB:10Tu5WhK3z61r6m	p.Leu87Pro
+Chromosome	1350890	C	T	upstream_gene_variant	MODIFIER	ENSB:OzI9u79yEcyRnq8	
+Chromosome	1351149	C	G	missense_variant	MODERATE	ENSB:bQ5PK8XJeWiBnpI	p.Gly39Arg
+Chromosome	1368008	T	C	upstream_gene_variant	MODIFIER	ENSB:UkBaribb8P1HKsK	
+Chromosome	1368593	G	A	synonymous_variant	LOW	ENSB:fu42-ywOIX6ID4v	p.Arg21Arg
+Chromosome	1374169	G	C	upstream_gene_variant	MODIFIER	ENSB:VLmFh_Zhqsee6wb	
+Chromosome	1381437	A	G	missense_variant	MODERATE	ENSB:weXFbXCAOivJauS	p.Met278Thr
+Chromosome	1381662	GCCTCAACAACCTCCTCAACAACCT	GCCTCAACAACCT,G	conservative_inframe_deletion	MODERATE	ENSB:weXFbXCAOivJauS	p.Val196_Glu199del
+Chromosome	1382825	A	AC	upstream_gene_variant	MODIFIER	ENSB:vpa2EoOcChj0gQc	
+Chromosome	1403585	A	G	missense_variant	MODERATE	ENSB:xJ6Zxr_VCQ2gQXn	p.Ile2322Val
+Chromosome	1407873	G	C	missense_variant	MODERATE	ENSB:1fxSPnhLI2VpdHJ	p.Pro79Ala
+Chromosome	1407885	A	G	missense_variant	MODERATE	ENSB:1fxSPnhLI2VpdHJ	p.Ser75Pro
+Chromosome	1408057	A	G	synonymous_variant	LOW	ENSB:1fxSPnhLI2VpdHJ	p.Thr17Thr
+Chromosome	1414665	TA	T	upstream_gene_variant	MODIFIER	ENSB:CkYUCjpfNzaaFdh	
+Chromosome	1423393	A	G	missense_variant	MODERATE	dnaE1	p.Glu127Gly
+Chromosome	1426796	A	G	missense_variant	MODERATE	ENSB:Q6Hh_F8L4GH75Wf	p.Ser44Pro
+Chromosome	1443409	G	C	missense_variant	MODERATE	bioB	p.Gly303Ala
+Chromosome	1443712	C	G	missense_variant	MODERATE	ENSB:0W_8MMyifTAcaqL	p.Arg50Gly
+Chromosome	1451075	G	C	upstream_gene_variant	MODIFIER	ENSB:6T5bOzHjrMNMUfO	
+Chromosome	1451076	T	C	upstream_gene_variant	MODIFIER	ENSB:6T5bOzHjrMNMUfO	
+Chromosome	1451424	T	C	synonymous_variant	LOW	ENSB:t1nsRhxfEODHiXa	p.Thr17Thr
+Chromosome	1451503	T	C	missense_variant	MODERATE	ENSB:t1nsRhxfEODHiXa	p.Ser44Pro
+Chromosome	1452572	GAC	G	upstream_gene_variant	MODIFIER	msl3	
+Chromosome	1461460	GT	G	frameshift_variant	HIGH	papA3	p.Asp245fs
+Chromosome	1475671	G	A	upstream_gene_variant	MODIFIER	ENSB:MUPMHNNupvaqJUZ	
+Chromosome	1477963	GT	G	upstream_gene_variant	MODIFIER	ENSB:WFG9UK_IzVG1_94	
+Chromosome	1481751	C	T	upstream_gene_variant	MODIFIER	ENSB:hvWAfqYrXDWGtko	
+Chromosome	1482581	C	T	missense_variant	MODERATE	ENSB:trfchDU5As14mme	p.Pro121Leu
+Chromosome	1500917	C	T	upstream_gene_variant	MODIFIER	ENSB:6KP-pCZvLj2TWXO	
+Chromosome	1521281	GA	G	upstream_gene_variant	MODIFIER	tesB	
+Chromosome	1526285	G	GC	frameshift_variant	HIGH	ENSB:CYHHQ9RRsVQZO-M	p.Ala199fs
+Chromosome	1529088	A	G	upstream_gene_variant	MODIFIER	ENSB:iG4ccsYor6Bd6qO	
+Chromosome	1530718	A	G	synonymous_variant	LOW	ENSB:sgFulu57HAiEn9M	p.Leu18Leu
+Chromosome	1531183	GCA	GCACA,G	upstream_gene_variant	MODIFIER	ENSB:CYHHQ9RRsVQZO-M	
+Chromosome	1532258	G	A	missense_variant	MODERATE	pdtaR	p.Arg131Gln
+Chromosome	1533315	C	CG	frameshift_variant	HIGH	ENSB:ZsIxpOzsz0HqZWP	p.Trp132fs
+Chromosome	1552904	G	C	missense_variant	MODERATE	ansP1_1	p.Ala371Gly
+Chromosome	1553667	C	G	missense_variant	MODERATE	ansP1_1	p.Asp117His
+Chromosome	1563310	G	A	upstream_gene_variant	MODIFIER	ENSB:bltqigY2ZGZ7IRv	
+Chromosome	1572227	C	T	synonymous_variant	LOW	ENSB:x5GTHr3qM76e_ah	p.Phe30Phe
+Chromosome	1579109	T	G	upstream_gene_variant	MODIFIER	ENSB:weWLKjGu5HXL8HT	
+Chromosome	1584133	G	C	missense_variant	MODERATE	tatC	p.Gly199Ala
+Chromosome	1587661	C	T	missense_variant	MODERATE	ENSB:yuVOXZ8Br3eFXAr	p.Pro114Ser
+Chromosome	1587950	T	C	missense_variant	MODERATE	ENSB:yuVOXZ8Br3eFXAr	p.Val210Ala
+Chromosome	1591062	C	T	synonymous_variant	LOW	ENSB:QbMH1MgaEc53Pag	p.Gly55Gly
+Chromosome	1593427	TGCAGTGA	T	upstream_gene_variant	MODIFIER	ENSB:sJxZSIumNTrdOwF	
+Chromosome	1593442	GC	G	upstream_gene_variant	MODIFIER	ENSB:sJxZSIumNTrdOwF	
+Chromosome	1600049	A	G	missense_variant	MODERATE	zapE	p.Ile115Val
+Chromosome	1601902	C	A	upstream_gene_variant	MODIFIER	ENSB:jyIRmHECyCgYXfg	
+Chromosome	1605920	A	C	upstream_gene_variant	MODIFIER	ENSB:APkfrJrwlQ-_zVs	
+Chromosome	1605956	G	A	upstream_gene_variant	MODIFIER	ENSB:APkfrJrwlQ-_zVs	
+Chromosome	1610660	G	A	upstream_gene_variant	MODIFIER	ENSB:Hrt6q5ep8HUDi93	
+Chromosome	1614069	T	C	upstream_gene_variant	MODIFIER	ENSB:Hrt6q5ep8HUDi93	
+Chromosome	1625045	T	G	synonymous_variant	LOW	pyrG	p.Pro337Pro
+Chromosome	1638724	C	T	upstream_gene_variant	MODIFIER	ENSB:PvpHyrNBsTrymmI	
+Chromosome	1642875	G	T	missense_variant	MODERATE	ENSB:vMyIPI1YITznYH-	p.Val23Leu
+Chromosome	1643162	T	C	upstream_gene_variant	MODIFIER	ENSB:y9klZthtm2nE5_c	
+Chromosome	1648026	T	C	upstream_gene_variant	MODIFIER	ENSB:B5qgQ9FyPXrfqyI	
+Chromosome	1648105	C	T	upstream_gene_variant	MODIFIER	ENSB:B5qgQ9FyPXrfqyI	
+Chromosome	1651227	G	A	missense_variant	MODERATE	ENSB:nNbUHjTUYeOq3qY	p.Pro44Ser
+Chromosome	1651306	A	G	synonymous_variant	LOW	ENSB:nNbUHjTUYeOq3qY	p.Thr17Thr
+Chromosome	1665902	G	C	missense_variant	MODERATE	ENSB:0U4qDBHqABzJ8ry	p.Pro282Ala
+Chromosome	1677493	G	C	synonymous_variant	LOW	trmH_1	p.Ala144Ala
+Chromosome	1679768	A	G	synonymous_variant	LOW	ENSB:T1uw78UeIzNmNU4	p.Arg151Arg
+Chromosome	1680956	G	T	stop_gained	HIGH	ENSB:ixilKvyeRRsmKdD	p.Glu68*
+Chromosome	1701590	G	C	upstream_gene_variant	MODIFIER	ENSB:9gZ3ISj4mEsQtaB	
+Chromosome	1702898	T	TG	upstream_gene_variant	MODIFIER	ENSB:9gZ3ISj4mEsQtaB	
+Chromosome	1705881	G	A	synonymous_variant	LOW	ENSB:TgGlGj4_pf_cuLw	p.Thr55Thr
+Chromosome	1713506	A	T	missense_variant	MODERATE	lacF	p.Ser311Thr
+Chromosome	1725797	C	G	upstream_gene_variant	MODIFIER	ENSB:CTRjME3v8ySJral	
+Chromosome	1732457	C	A	missense_variant	MODERATE	ENSB:CdJONcDBcTjjSt-	p.Gly41Val
+Chromosome	1741674	G	GTA	frameshift_variant	HIGH	ENSB:9gDcOT0kznb77vv	p.Arg36fs
+Chromosome	1744090	GTATATA	GTA,G,GTATATATA	frameshift_variant	HIGH	ENSB:9TLrwGtJcdFnQoV	p.Tyr33fs
+Chromosome	1752705	C	T	synonymous_variant	LOW	proA	p.Pro146Pro
+Chromosome	1754494	G	A	synonymous_variant	LOW	ENSB:grlMNlW3TOracbt	p.Asn31Asn
+Chromosome	1759431	C	T	synonymous_variant	LOW	nadE	p.Ala639Ala
+Chromosome	1762243	T	C	missense_variant	MODERATE	proB	p.Glu142Gly
+Chromosome	1768470	G	T	synonymous_variant	LOW	ndkA	p.Ile33Ile
+Chromosome	1778020	A	ACC,AC	frameshift_variant	HIGH	korA_1	p.Tyr16fs
+Chromosome	1791500	G	A	missense_variant	MODERATE	ENSB:S_3an4PkG_UF5fp	p.Pro44Ser
+Chromosome	1791913	A	ACAC	conservative_inframe_insertion	MODERATE	ENSB:G3kFg6c-y6PYq9B	p.Val89dup
+Chromosome	1791924	A	AC	frameshift_variant	HIGH	ENSB:G3kFg6c-y6PYq9B	p.Val86fs
+Chromosome	1797379	CGCAGATAGCA	C	frameshift_variant	HIGH	ENSB:hp6EhUPqsAUkTkJ	p.Ala21fs
+Chromosome	1813428	A	AGT	upstream_gene_variant	MODIFIER	ENSB:g7dbb3vTuDBT_n3	
+Chromosome	1816850	GGCACCT	GGCACCTGCACCT,G	conservative_inframe_insertion	MODERATE	ENSB:v8mTtxSisSPJLNN	p.Pro45_Ala46dup
+Chromosome	1822906	T	G	missense_variant	MODERATE	ENSB:YG-Sg1QqiAGcD9z	p.Ile85Ser
+Chromosome	1823649	C	A	missense_variant	MODERATE	rnj	p.Arg320Leu
+Chromosome	1828126	A	G	upstream_gene_variant	MODIFIER	rnj	
+Chromosome	1839270	A	G	synonymous_variant	LOW	ENSB:HWEb4Nq6NJjclr0	p.Val32Val
+Chromosome	1841279	C	CG	frameshift_variant	HIGH	dapB_2	p.Met138fs
+Chromosome	1843283	C	A	missense_variant	MODERATE	ENSB:f0gR6ywflbbC2YC	p.Val90Leu
+Chromosome	1848527	T	C	synonymous_variant	LOW	ENSB:wleVYiBIit1MwO4	p.Thr17Thr
+Chromosome	1848606	T	C	missense_variant	MODERATE	ENSB:wleVYiBIit1MwO4	p.Ser44Pro
+Chromosome	1849026	G	GC	upstream_gene_variant	MODIFIER	ENSB:bQlDvA2zN44BRJ1	
+Chromosome	1858060	T	TA	upstream_gene_variant	MODIFIER	eccA5	
+Chromosome	1868993	G	T	upstream_gene_variant	MODIFIER	eccC5	
+Chromosome	1870656	A	G	synonymous_variant	LOW	ENSB:iWAFfHRrIEc0-C1	p.Thr17Thr
+Chromosome	1890243	C	G	upstream_gene_variant	MODIFIER	efpA	
+Chromosome	1890244	G	C	upstream_gene_variant	MODIFIER	efpA	
+Chromosome	1912456	A	AC	frameshift_variant	HIGH	ENSB:NwVjjdfBrivCbyd	p.Val25fs
+Chromosome	1924097	G	A	upstream_gene_variant	MODIFIER	ENSB:_l7We_tm250m4b7	
+Chromosome	1926696	T	C	upstream_gene_variant	MODIFIER	amiC	
+Chromosome	1937233	G	A	missense_variant	MODERATE	rplS	p.Pro93Leu
+Chromosome	1941699	T	G	upstream_gene_variant	MODIFIER	lepB	
+Chromosome	1959512	A	ACAC	upstream_gene_variant	MODIFIER	ftsY	
+Chromosome	1959523	A	AC	upstream_gene_variant	MODIFIER	ftsY	
+Chromosome	1967497	G	T	missense_variant	MODERATE	caeA	p.Leu32Ile
+Chromosome	1969688	C	A	synonymous_variant	LOW	panB	p.Val187Val
+Chromosome	1971193	G	A	upstream_gene_variant	MODIFIER	caeA	
+Chromosome	1974673	C	T	synonymous_variant	LOW	ENSB:oPbKdWT7UuxW1GH	p.Thr151Thr
+Chromosome	1977878	G	A	missense_variant	MODERATE	ENSB:p-DkLkaQGlKd-5y	p.Ala32Val
+Chromosome	1987155	ACCCCCC	A	upstream_gene_variant	MODIFIER	ENSB:JWssTXvVBsnp3La	
+Chromosome	1992477	A	G	missense_variant	MODERATE	ENSB:KEDqIAG1nwaY0JB	p.Ile140Val
+Chromosome	1999222	A	G	missense_variant	MODERATE	ENSB:ybOV3DITSimQa2y	p.Ser74Pro
+Chromosome	1999707	CCCCACCAG	C	upstream_gene_variant	MODIFIER	ENSB:ybOV3DITSimQa2y	
+Chromosome	2006018	A	G	synonymous_variant	LOW	rsmD	p.Gly31Gly
+Chromosome	2011747	T	G	upstream_gene_variant	MODIFIER	ENSB:44HHBW6f1ATh0UU	
+Chromosome	2015320	G	C	missense_variant	MODERATE	recG	p.Asp545Glu
+Chromosome	2017943	A	G	missense_variant	MODERATE	ENSB:x3A7p6YxqiKShP-	p.Ser67Pro
+Chromosome	2023404	A	C	missense_variant	MODERATE	gpsA	p.Val240Gly
+Chromosome	2030803	G	A	missense_variant	MODERATE	leuC	p.Ala274Val
+Chromosome	2033094	T	C	upstream_gene_variant	MODIFIER	ihfA	
+Chromosome	2040883	G	A	missense_variant	MODERATE	ENSB:LjV-DAcdidi71WZ	p.Arg129Gln
+Chromosome	2042429	T	TG	upstream_gene_variant	MODIFIER	leuB	
+Chromosome	2043287	A	G	synonymous_variant	LOW	ilvC	p.Pro155Pro
+Chromosome	2047765	T	C	missense_variant	MODERATE	ENSB:JsQtGpRr0-IsIgz	p.Glu39Gly
+Chromosome	2049869	G	A	missense_variant	MODERATE	ENSB:pWsz2GHn7EKX--w	p.Gly55Glu
+Chromosome	2055222	T	C	synonymous_variant	LOW	ENSB:D4U-YXY2vVcGT15	p.Asp58Asp
+Chromosome	2066263	T	G	synonymous_variant	LOW	ENSB:X9VzIFsjYUIyUCO	p.Val52Val
+Chromosome	2079043	T	C	missense_variant	MODERATE	ENSB:V5AGmUJBg5qGInm	p.Ser44Pro
+Chromosome	2100523	C	G	missense_variant	MODERATE	sadH_2	p.Ala133Pro
+Chromosome	2103438	CG	C	upstream_gene_variant	MODIFIER	sadH_2	
+Chromosome	2104127	T	C	upstream_gene_variant	MODIFIER	sadH_2	
+Chromosome	2113460	G	A	upstream_gene_variant	MODIFIER	ENSB:7gHygdCsQ1qJQLE	
+Chromosome	2114696	G	A	upstream_gene_variant	MODIFIER	ENSB:tl_bWngpARtiPPC	
+Chromosome	2114978	C	CAT	upstream_gene_variant	MODIFIER	ENSB:tl_bWngpARtiPPC	
+Chromosome	2116013	G	T	missense_variant	MODERATE	ENSB:hvXN5J6A7_kt9wQ	p.Ala327Glu
+Chromosome	2116305	C	G	missense_variant	MODERATE	ENSB:hvXN5J6A7_kt9wQ	p.Ala230Pro
+Chromosome	2119468	T	C	stop_lost&splice_region_variant	HIGH	ENSB:h90HD_-PeZyuFAS	p.Ter236Trpext*?
+Chromosome	2127770	C	CA	upstream_gene_variant	MODIFIER	ENSB:5FYVVRVjlEbwi9U	
+Chromosome	2127823	A	G	upstream_gene_variant	MODIFIER	ENSB:5FYVVRVjlEbwi9U	
+Chromosome	2135230	G	A	missense_variant	MODERATE	ENSB:hgfT6vphCqMnJX7	p.Arg67Gln
+Chromosome	2142011	CT	C	upstream_gene_variant	MODIFIER	ENSB:OZQYMiqkrNO6uOV	
+Chromosome	2148809	G	A	synonymous_variant	LOW	ENSB:xVabfYn4yBn137q	p.Leu9Leu
+Chromosome	2152117	T	C	synonymous_variant	LOW	ENSB:1KHAI7aEkuVLdAt	p.Glu39Glu
+Chromosome	2152544	A	G	missense_variant	MODERATE	ENSB:qrS7gqNyLozD0fV	p.Ser44Pro
+Chromosome	2154646	C	T	missense_variant	MODERATE	ENSB:hlLvWsDHYdzWonB	p.Gly36Asp
+Chromosome	2155013	T	G	missense_variant	MODERATE	ENSB:Kb0PKX9OinsA5vI	p.Asp29Ala
+Chromosome	2161753	TG	T	upstream_gene_variant	MODIFIER	ENSB:dOCAF0dQoP5foQ_	
+Chromosome	2174865	G	C	upstream_gene_variant	MODIFIER	ENSB:PiuVxzbB-uUx6C0	
+Chromosome	2175587	C	G	missense_variant	MODERATE	ENSB:5EFwqcY_OQZ3b8c	p.Gln96Glu
+Chromosome	2181893	G	A	missense_variant	MODERATE	mutA	p.Ser68Leu
+Chromosome	2200103	C	T	missense_variant	MODERATE	yheS	p.Gly164Arg
+Chromosome	2205779	TA	T	upstream_gene_variant	MODIFIER	ENSB:h5VRBjWLmnsBwHa	
+Chromosome	2207245	G	T	upstream_gene_variant	MODIFIER	ENSB:D71BpjOnV2qiXNL	
+Chromosome	2210449	A	G	missense_variant	MODERATE	ENSB:RscC_W-9kp6Z_hd	p.Ser43Pro
+Chromosome	2211034	TAC	T,TACAC	frameshift_variant	HIGH	ENSB:aD1YNouUzpLt3rA	p.Val58fs
+Chromosome	2215739	G	A	upstream_gene_variant	MODIFIER	ENSB:CvfTjsXcNKD9BRm	
+Chromosome	2219155	G	T	missense_variant	MODERATE	ENSB:h7x1jGk6nShgaDX	p.Gly86Val
+Chromosome	2235048	C	T	missense_variant	MODERATE	ENSB:dajxRWfDxkGUS3e	p.Cys48Tyr
+Chromosome	2235172	C	T	missense_variant	MODERATE	ENSB:dajxRWfDxkGUS3e	p.Ala7Thr
+Chromosome	2238680	G	A	missense_variant	MODERATE	ENSB:j--NBtdA76Vvyaw	p.Thr17Ile
+Chromosome	2254583	T	C	upstream_gene_variant	MODIFIER	ENSB:NeN1IDbLf_QoBe6	
+Chromosome	2263547	G	A	upstream_gene_variant	MODIFIER	fusA	
+Chromosome	2269376	G	A	missense_variant	MODERATE	rpoC	p.Ala1282Val
+Chromosome	2269401	G	A	missense_variant	MODERATE	rpoC	p.Pro1274Ser
+Chromosome	2269826	A	C	missense_variant	MODERATE	rpoC	p.Ile1132Ser
+Chromosome	2278551	C	A	missense_variant	MODERATE	ENSB:sZucZm9DW4Tx1FT	p.Arg70Leu
+Chromosome	2284675	C	T	missense_variant	MODERATE	mmaA1	p.Leu24Phe
+Chromosome	2300727	G	GTGGTGGGC	upstream_gene_variant	MODIFIER	ENSB:We7jgKmeK9ru7PQ	
+Chromosome	2301042	T	C	synonymous_variant	LOW	ENSB:AwHjhWr8Di9deqa	p.Tyr14Tyr
+Chromosome	2301051	C	T	synonymous_variant	LOW	ENSB:AwHjhWr8Di9deqa	p.Thr17Thr
+Chromosome	2309138	C	T	missense_variant	MODERATE	ENSB:hMoYrUrFRYKKbOU	p.Arg67Gln
+Chromosome	2309208	A	G	missense_variant	MODERATE	ENSB:hMoYrUrFRYKKbOU	p.Ser44Pro
+Chromosome	2309287	A	G	synonymous_variant	LOW	ENSB:hMoYrUrFRYKKbOU	p.Thr17Thr
+Chromosome	2309296	A	G	synonymous_variant	LOW	ENSB:hMoYrUrFRYKKbOU	p.Tyr14Tyr
+Chromosome	2312059	C	G	upstream_gene_variant	MODIFIER	ENSB:cNVxWCpfpA96m82	
+Chromosome	2316360	G	A	upstream_gene_variant	MODIFIER	sodC	
+Chromosome	2343011	C	T	synonymous_variant	LOW	ENSB:Z4Yspv6dQluMBUb	p.Tyr14Tyr
+Chromosome	2343242	G	GC	frameshift_variant	HIGH	ENSB:Z4Yspv6dQluMBUb	p.Thr94fs
+Chromosome	2344787	G	A	synonymous_variant	LOW	rpoA	p.Ala321Ala
+Chromosome	2349067	G	A	synonymous_variant	LOW	rmlB	p.Gly243Gly
+Chromosome	2386469	C	A	missense_variant	MODERATE	dltA	p.Phe1050Leu
+Chromosome	2388071	G	C	missense_variant	MODERATE	ENSB:uzPhKlJEV5HQhQs	p.Pro32Ala
+Chromosome	2395657	C	G	missense_variant	MODERATE	ENSB:4Xm9fuobJIQ9JCU	p.Arg12Gly
+Chromosome	2419677	T	C	upstream_gene_variant	MODIFIER	ENSB:fwyEapOTSmj6bbQ	
+Chromosome	2429792	T	A	missense_variant	MODERATE	bfr	p.Asp4Val
+Chromosome	2441339	C	T	missense_variant	MODERATE	adhA	p.Ala264Thr
+Chromosome	2447312	C	A	upstream_gene_variant	MODIFIER	ENSB:v5d3auufzQ94QtP	
+Chromosome	2459766	A	G	missense_variant	MODERATE	glcB	p.Lys591Glu
+Chromosome	2460206	T	TGGCG	upstream_gene_variant	MODIFIER	ENSB:dIzlrnCATqYycUm	
+Chromosome	2460212	C	T	upstream_gene_variant	MODIFIER	ENSB:dIzlrnCATqYycUm	
+Chromosome	2460215	G	T	upstream_gene_variant	MODIFIER	ENSB:dIzlrnCATqYycUm	
+Chromosome	2468130	C	A	missense_variant	MODERATE	ENSB:7oE2dIDrKgSMM-S	p.Val204Phe
+Chromosome	2479517	T	C	missense_variant	MODERATE	ENSB:HEThuBbTklSKilN	p.Ser43Pro
+Chromosome	2483560	T	TA	frameshift_variant	HIGH	ENSB:QjVZ2rLq3fTovzf	p.Thr98fs
+Chromosome	2483907	CA	C	upstream_gene_variant	MODIFIER	ENSB:xA4FbJdKxxttpCo	
+Chromosome	2486596	AT	A	upstream_gene_variant	MODIFIER	ENSB:xA4FbJdKxxttpCo	
+Chromosome	2494215	T	C	upstream_gene_variant	MODIFIER	pstA1_1	
+Chromosome	2507096	G	GCA	frameshift_variant	HIGH	ENSB:-pchxxsfTq3Qkeg	p.Leu9fs
+Chromosome	2509206	C	A	upstream_gene_variant	MODIFIER	ENSB:_wJ33VR8WeAtdnO	
+Chromosome	2513822	GTCTCTGACAA	G	upstream_gene_variant	MODIFIER	ENSB:VLzU8GitiziCZhi	
+Chromosome	2518840	G	C	missense_variant	MODERATE	echA6	p.Thr225Ser
+Chromosome	2521135	G	A	stop_gained	HIGH	ENSB:SlapU1RMDrAd0NY	p.Trp57*
+Chromosome	2553176	T	G	upstream_gene_variant	MODIFIER	ENSB:5ippneIqI3Y772u	
+Chromosome	2553944	GT	G	upstream_gene_variant	MODIFIER	ENSB:5ippneIqI3Y772u	
+Chromosome	2561800	C	A	upstream_gene_variant	MODIFIER	ENSB:z4aFwLniFTGDTCz	
+Chromosome	2567248	AGTG	A	upstream_gene_variant	MODIFIER	ENSB:pvvDJTzqdZD0Odc	
+Chromosome	2574108	T	C	upstream_gene_variant	MODIFIER	fadJ_1	
+Chromosome	2574596	G	A	upstream_gene_variant	MODIFIER	fadJ_1	
+Chromosome	2583813	GGTA	GGTAGTA,G	conservative_inframe_insertion	MODERATE	ENSB:DjBA4ywUE9-312J	p.Tyr62dup
+Chromosome	2584343	C	G	upstream_gene_variant	MODIFIER	ENSB:FPN9KihFXX-4Yi0	
+Chromosome	2596733	G	GTA	upstream_gene_variant	MODIFIER	ENSB:DAtIas3dABZ22_5	
+Chromosome	2596867	G	A	synonymous_variant	LOW	ENSB:knStwBi7f5ByQEN	p.Phe64Phe
+Chromosome	2597734	GATATATATATAT	G,GATATATAT	upstream_gene_variant	MODIFIER	ENSB:DAtIas3dABZ22_5	
+Chromosome	2650240	A	G	upstream_gene_variant	MODIFIER	purC	
+Chromosome	2658191	AC	A,ACC,ACCCC	frameshift_variant	HIGH	ENSB:3E_CY-JRy2MEDIX	p.Gly25fs
+Chromosome	2662629	C	T	missense_variant	MODERATE	ENSB:HvoQGwIJqwoYVOI	p.Pro4Leu
+Chromosome	2679975	C	T	missense_variant	MODERATE	ENSB:thzgArCkrnOobjh	p.Pro44Ser
+Chromosome	2706236	T	G	missense_variant	MODERATE	ENSB:IFUw3uBFgHik9TK	p.Lys81Thr
+Chromosome	2710194	A	G	upstream_gene_variant	MODIFIER	ENSB:d-pel9ObSpxRqQs	
+Chromosome	2711942	T	G	upstream_gene_variant	MODIFIER	ENSB:0Idv2rAMq1NZxJt	
+Chromosome	2712197	G	T	upstream_gene_variant	MODIFIER	ENSB:0Idv2rAMq1NZxJt	
+Chromosome	2751783	A	G	synonymous_variant	LOW	asd	p.Ala299Ala
+Chromosome	2757405	GC	G	frameshift_variant	HIGH	ENSB:Pz7Wf5xJiEHXCEV	p.Val81fs
+Chromosome	2774057	G	T	missense_variant	MODERATE	ENSB:6jMi0bdbKMQhVMk	p.Ser77Arg
+Chromosome	2775050	G	A	upstream_gene_variant	MODIFIER	ENSB:VSvTkutmwKpx7ww	
+Chromosome	2785432	TGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAA	T,TGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAA,TGAAGAAGAAGAAGAAGAAGAA,TGAAGAAGAAGAAGAA	upstream_gene_variant	MODIFIER	ENSB:5kft8NsEKV1ffpK	
+Chromosome	2804726	C	A	synonymous_variant	LOW	ppsD	p.Gly49Gly
+Chromosome	2818521	T	C	synonymous_variant	LOW	ppsA	p.Gln1063Gln
+Chromosome	2820167	A	G	missense_variant	MODERATE	ppsA	p.Phe515Leu
+Chromosome	2822967	A	G	missense_variant	MODERATE	ENSB:sqieRCV1H2IgdWI	p.Phe164Ser
+Chromosome	2835913	CGTGT	C	frameshift_variant	HIGH	ENSB:0Idy2Bv-MyuEnGL	p.Val89fs
+Chromosome	2836165	G	A	missense_variant	MODERATE	ENSB:OUpzvluhGKS6wL1	p.Pro44Ser
+Chromosome	2836244	A	G	synonymous_variant	LOW	ENSB:OUpzvluhGKS6wL1	p.Thr17Thr
+Chromosome	2836253	A	G	synonymous_variant	LOW	ENSB:OUpzvluhGKS6wL1	p.Tyr14Tyr
+Chromosome	2836564	ACCAGC	A	upstream_gene_variant	MODIFIER	ENSB:ld7mH4MNGzsPaMw	
+Chromosome	2836578	A	C	upstream_gene_variant	MODIFIER	ENSB:ld7mH4MNGzsPaMw	
+Chromosome	2844969	CATATAT	C	disruptive_inframe_deletion	MODERATE	ENSB:EOqyiF9VuM_ZTWy	p.Tyr109_Ile110del
+Chromosome	2855182	G	T	upstream_gene_variant	MODIFIER	ENSB:whdM8t0txGwyrp0	
+Chromosome	2859306	T	TG	upstream_gene_variant	MODIFIER	ENSB:VB_BrWyUNRuFurz	
+Chromosome	2860248	T	G	upstream_gene_variant	MODIFIER	ENSB:VB_BrWyUNRuFurz	
+Chromosome	2860582	G	T	missense_variant	MODERATE	ENSB:uLDYSgJeJNsbCpv	p.Val57Phe
+Chromosome	2867851	C	T	missense_variant	MODERATE	lipF	p.Gly112Ser
+Chromosome	2875537	G	GC	upstream_gene_variant	MODIFIER	ENSB:X8O30IwxKxa2dsY	
+Chromosome	2878040	C	A	missense_variant	MODERATE	menA	p.Gln215Lys
+Chromosome	2887094	C	CATA	upstream_gene_variant	MODIFIER	ccs1	
+Chromosome	2891869	G	T	stop_gained	HIGH	ENSB:4dZxU6vJHGy8hCg	p.Tyr27*
+Chromosome	2893091	G	GT	upstream_gene_variant	MODIFIER	ENSB:Cw-NB_mEpvzXV1-	
+Chromosome	2899715	T	G	upstream_gene_variant	MODIFIER	hemB	
+Chromosome	2900276	C	G	missense_variant	MODERATE	serB1	p.Ala93Gly
+Chromosome	2902257	C	G	missense_variant	MODERATE	cmaA2	p.Arg248Gly
+Chromosome	2915098	A	AC	frameshift_variant	HIGH	ENSB:pYgmu4Lj4FzYVLz	p.Val25fs
+Chromosome	2924106	A	C	missense_variant	MODERATE	ENSB:7_hrv8fjeb-A5vs	p.Glu11Ala
+Chromosome	2935685	A	C	missense_variant	MODERATE	ENSB:4rYIO-pe1UVs8W-	p.Leu48Arg
+Chromosome	2936401	G	A	upstream_gene_variant	MODIFIER	pcaA_2	
+Chromosome	2943754	G	A	missense_variant	MODERATE	ENSB:qPx8X9vO6ExJUax	p.Pro44Ser
+Chromosome	2944167	ACAC	A	upstream_gene_variant	MODIFIER	ENSB:7nrpxWq6BDtYKn4	
+Chromosome	2944181	A	AC	upstream_gene_variant	MODIFIER	ENSB:7nrpxWq6BDtYKn4	
+Chromosome	2945486	TATAATACTGTAGTGAACGACATC	T	upstream_gene_variant	MODIFIER	ENSB:qPx8X9vO6ExJUax	
+Chromosome	2948105	G	GC	frameshift_variant	HIGH	tyrA	p.Arg26fs
+Chromosome	2951819	GTATATA	G,GTA,GTATA	upstream_gene_variant	MODIFIER	tyrA	
+Chromosome	2956317	C	T	missense_variant	MODERATE	ENSB:DXir84Di2bXjpz9	p.Val75Ile
+Chromosome	2964999	T	C	synonymous_variant	LOW	clpB	p.Glu256Glu
+Chromosome	2977226	C	T	synonymous_variant	LOW	coxS	p.Tyr63Tyr
+Chromosome	2977229	A	T	missense_variant	MODERATE	coxS	p.Glu64Asp
+Chromosome	2981212	G	A	synonymous_variant	LOW	ENSB:bx9iOG8BhAdW8kB	p.Lys344Lys
+Chromosome	2987747	C	G	missense_variant	MODERATE	ENSB:93fZoBquYy6J1HT	p.Thr52Ser
+Chromosome	2990150	T	C	upstream_gene_variant	MODIFIER	rmlA	
+Chromosome	2992340	T	C	missense_variant	MODERATE	ENSB:j1TrbYQckn8iTy5	p.Thr42Ala
+Chromosome	3008043	C	T	upstream_gene_variant	MODIFIER	ENSB:SOzbgPsppjvmWIm	
+Chromosome	3015988	C	T	missense_variant	MODERATE	ENSB:MUnQCwaD4A6yXlm	p.Ser38Asn
+Chromosome	3016175	T	C	synonymous_variant	LOW	PE5	p.Val79Val
+Chromosome	3016895	C	A	missense_variant	MODERATE	eccC3	p.Val1181Leu
+Chromosome	3022315	G	A	missense_variant	MODERATE	eccA3	p.Pro545Leu
+Chromosome	3029333	C	T	upstream_gene_variant	MODIFIER	ENSB:58ZpwBsfDD0A9XY	
+Chromosome	3030632	T	C	upstream_gene_variant	MODIFIER	ENSB:NhFWloY0YUVW_P2	
+Chromosome	3043758	C	A	upstream_gene_variant	MODIFIER	ENSB:y5eKcgreJzU5dwC	
+Chromosome	3047644	A	G	upstream_gene_variant	MODIFIER	ENSB:y5eKcgreJzU5dwC	
+Chromosome	3057114	G	C	upstream_gene_variant	MODIFIER	ENSB:V6UgX_G1idPwWrU	
+Chromosome	3057124	A	G	upstream_gene_variant	MODIFIER	ENSB:V6UgX_G1idPwWrU	
+Chromosome	3057161	C	T	upstream_gene_variant	MODIFIER	ENSB:V6UgX_G1idPwWrU	
+Chromosome	3059918	A	G	missense_variant	MODERATE	hcaB	p.Asn319Asp
+Chromosome	3068704	G	A	missense_variant	MODERATE	aftD	p.Asp1085Asn
+Chromosome	3071352	A	G	upstream_gene_variant	MODIFIER	ENSB:heIOHGZ5FhNDAJi	
+Chromosome	3075776	C	A	stop_gained	HIGH	nrdB	p.Glu12*
+Chromosome	3076050	G	C	upstream_gene_variant	MODIFIER	ENSB:6r-MEIQ7nM0nVxO	
+Chromosome	3086507	T	C	synonymous_variant	LOW	ENSB:Gw5lcITfrNX12I7	p.Asp52Asp
+Chromosome	3090636	C	A	start_lost	HIGH	ENSB:ueGrXhUrqjiKHCW	p.Met1?
+Chromosome	3097168	G	T	missense_variant	MODERATE	ENSB:LF9NPhpVGMxPzGE	p.Val270Phe
+Chromosome	3100774	G	GC	upstream_gene_variant	MODIFIER	ENSB:Ns20If9U-iDVQ76	
+Chromosome	3102778	A	C	missense_variant	MODERATE	ENSB:06ry_CfSuUtGE1a	p.Tyr151Ser
+Chromosome	3106502	C	CA	upstream_gene_variant	MODIFIER	ENSB:3MYwiiYhRHIIkgf	
+Chromosome	3109982	A	G	stop_lost&splice_region_variant	HIGH	ENSB:wSoeYkv3efIP9Sb	p.Ter56Trpext*?
+Chromosome	3120966	T	C	missense_variant	MODERATE	ENSB:UoBZH10w_741iIr	p.Tyr47His
+Chromosome	3132639	G	A	synonymous_variant	LOW	trmB	p.Tyr259Tyr
+Chromosome	3133744	G	A	upstream_gene_variant	MODIFIER	mmpL3	
+Chromosome	3148817	G	T	synonymous_variant	LOW	ENSB:khD8pH1r1yiagX0	p.Val76Val
+Chromosome	3152586	C	T	synonymous_variant	LOW	pntB	p.Ala99Ala
+Chromosome	3175296	A	C	upstream_gene_variant	MODIFIER	ENSB:DDlePkRR4ksDyyT	
+Chromosome	3176737	T	G	missense_variant	MODERATE	ENSB:AtYOjigj-wMGcKd	p.Leu4Arg
+Chromosome	3191340	G	A	missense_variant	MODERATE	ldtA	p.Gly189Glu
+Chromosome	3201250	G	A	upstream_gene_variant	MODIFIER	mntH_2	
+Chromosome	3202695	A	G	upstream_gene_variant	MODIFIER	ENSB:OE7oRoZ3odIMR6b	
+Chromosome	3215535	G	A	upstream_gene_variant	MODIFIER	icd2	
+Chromosome	3219733	C	A	missense_variant	MODERATE	ENSB:H9CmHGJdGXEqeuN	p.Ala9Ser
+Chromosome	3232232	C	A	upstream_gene_variant	MODIFIER	ENSB:rDzu6xThP_m1Xpp	
+Chromosome	3236317	G	A	missense_variant	MODERATE	ENSB:ngAa7rwp9lc7xGH	p.Leu116Phe
+Chromosome	3243648	C	A	missense_variant	MODERATE	ENSB:my0LvRmCHz2ySF1	p.His15Asn
+Chromosome	3243731	A	G	synonymous_variant	LOW	ENSB:my0LvRmCHz2ySF1	p.Ser42Ser
+Chromosome	3248058	T	C	missense_variant	MODERATE	ENSB:jSCXJTzHaw2WmYQ	p.Ser44Pro
+Chromosome	3250524	A	G	missense_variant	MODERATE	mutT4	p.Ile165Val
+Chromosome	3256572	C	T	synonymous_variant	LOW	mviN	p.Ser1172Ser
+Chromosome	3257843	C	CATCGACACTCCCCGCGGTGAT	disruptive_inframe_insertion	MODERATE	ENSB:-FqJW_fLjbexuVa	p.Ile6_Ser12dup
+Chromosome	3263810	G	A	missense_variant	MODERATE	nifH	p.Leu120Phe
+Chromosome	3265736	G	A	missense_variant	MODERATE	yidC	p.Pro351Leu
+Chromosome	3268175	G	T	upstream_gene_variant	MODIFIER	nifH	
