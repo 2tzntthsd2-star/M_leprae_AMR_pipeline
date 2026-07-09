@@ -33,24 +33,18 @@ Drug Resistance Prediction
 ## Reports
 
 ### Quality Control
-FastQC reports are available in:
 
-reports/QC/
+[Open FastQC Report](fastqc_reports/SRR6241766_fastqc.html)
+
 
 ### Mutation Annotation
-snpEff annotation results:
 
-reports/Mutation/
+[Open snpEff Annotation Report](annotation/snpEff_report.html)
+
+[Open Mutation Report](annotation/mutation_report.html)
+
 
 ### Drug Resistance Prediction
 
-reports/Resistance/
-
-
-## Pipeline Execution
-
-Run complete workflow:
-
-```bash
-bash script/leprae_pipeline.sh
+[Open AMR Prediction Report](drug_resistance/drug_report.html)
 
