@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>M. leprae AMR Pipeline</title>
+
+<style>
+
+body{
+background:#07111f;
+color:white;
+font-family:Arial;
+padding:40px;
+}
+
+h1{
+color:#00e5ff;
+text-align:center;
+}
+
+.card{
+background:#111c2e;
+padding:25px;
+margin:20px;
+border-radius:15px;
+box-shadow:0px 0px 15px #00e5ff;
+}
+
+button{
+background:#00e5ff;
+padding:12px;
+border-radius:20px;
+border:none;
+font-size:16px;
+}
+
+a{
+text-decoration:none;
+color:black;
+}
+
+table{
+width:100%;
+color:white;
+border-collapse:collapse;
+}
+
+td,th{
+border:1px solid #00e5ff;
+padding:10px;
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<h1>🧬 Mycobacterium leprae AMR Prediction Pipeline</h1>
+
+
+<div class="card">
+
+<h2>🔬 Workflow</h2>
+
+<p>
+SRA Data ↓ 
+FastQC ↓
+fastp ↓
+BWA Alignment ↓
+Variant Calling ↓
+snpEff Annotation ↓
+AMR Prediction
+</p>
+
+</div>
+
+
+
+<div class="card">
+
+<h2>📊 Reports</h2>
+
+
+<button>
+<a href="fastqc_reports/SRR6241766_fastqc.html">
+FastQC Report
+</a>
+</button>
+
+
+<button>
+<a href="annotation/snpEff_report.html">
+Mutation Report
+</a>
+</button>
+
+
+<button>
+<a href="drug_resistance/drug_report.html">
+Drug Resistance Report
+</a>
+</button>
+
+
+</div>
+
+
+
+
+<div class="card">
+
+<h2>💊 AMR Results</h2>
+
+
+<table>
+
+<tr>
+<th>Gene</th>
+<th>Mutation</th>
+<th>Drug</th>
+<th>Status</th>
+</tr>
+
+
+<tr>
+<td>gyrA</td>
+<td>p.Gly362Glu</td>
+<td>Fluoroquinolone</td>
+<td>Unknown Variant</td>
+</tr>
+
+
+<tr>
+<td>gyrA</td>
+<td>p.Leu379Pro</td>
+<td>Fluoroquinolone</td>
+<td>Unknown Variant</td>
+</tr>
+
+
+</table>
+
+
+</div>
+
+
+</body>
+
+</html>
