@@ -30,3 +30,27 @@ Drug Resistance Prediction
 - Mutation annotation report
 - Drug resistance prediction report
 
+## Reports
+
+### Quality Control
+FastQC reports are available in:
+
+reports/QC/
+
+### Mutation Annotation
+snpEff annotation results:
+
+reports/Mutation/
+
+### Drug Resistance Prediction
+
+reports/Resistance/
+
+
+## Pipeline Execution
+
+Run complete workflow:
+
+```bash
+bash script/leprae_pipeline.sh
+
